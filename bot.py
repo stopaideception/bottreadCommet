@@ -106,4 +106,3 @@ def get_comments(thread_id):
 
 
 
-
